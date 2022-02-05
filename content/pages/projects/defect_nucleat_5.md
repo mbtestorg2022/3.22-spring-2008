@@ -32,7 +32,22 @@ Griffith's criterion considers crack propagation in single material. To apply Gr
 
 1.  Surface energy: In the thin film case, the change of surface energy (Γ) because of the crack is the sum of increased surface energy of Al (γAl) and Si (γSi) and the decrease of interface energy (γAl/Si) between thin film and substrate.
     
-    |  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_3.jpg) {{< br >}}{{< br >}}  | \= 8 N/m (from \[[5](#ref)\]) 
+    {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    
+    
+    ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_3.jpg)
+    
+    
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \= 8 N/m (from \[[5](#ref)\])
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
     This value corresponds to 2γ in the Griffith's equation.
     

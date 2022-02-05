@@ -34,7 +34,7 @@ In the first case, each layer in the stack experiences an equal stress, and the 
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_2.jpg)
 
-with index g for the glass matrix and p for the dust particles. The last step is a Taylor expansion for the case that Vp << 1.
+with index g for the glass matrix and p for the dust particles. The last step is a Taylor expansion for the case that Vp \<\< 1.
 
 In the second case, each layer in the stack experiences an equal strain, and the elastic modulus is found to be (Courtney 6.12):
 
@@ -44,23 +44,23 @@ When Sakaguchi introduces dust particles with Ep > Eg, such as alumina (E\[Al2O3
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_4.jpg)
 
-where Kc < 1 is empirically determined.
+where Kc \< 1 is empirically determined.
 
 To find a numerical value for the elastic modulus Ec, we first need to estimate the volume fraction Vp. In the most simple approximation, we can imagine the dust particles of diameter d to make up a mono-atomic shell of thickness d around the fiber of radius r. This corresponds in fact to the equal strain case described above. The volume fraction Vp is then given by the ratio of the cross-sectional area of the shell to the area of the fiber:
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_5.jpg)
 
-where the last approximation is valid for d << r. For the diameter of the silica fiber, we can use the value of 2\*r = 125 μm mentioned in the article by do Nascimento \[[10](#ref)\].
+where the last approximation is valid for d \<\< r. For the diameter of the silica fiber, we can use the value of 2\*r = 125 μm mentioned in the article by do Nascimento \[[10](#ref)\].
 
-For the alumina dust particles of d = 0.03 μm, 0.3 μm and 1 μm, the approximation d << r is valid and we find:
+For the alumina dust particles of d = 0.03 μm, 0.3 μm and 1 μm, the approximation d \<\< r is valid and we find:
 
 d = 0.03 μm → Vp = 0.00096 → Ec = 72.22 GPa = 1.003\*Eg  
 d = 0.3 μm → Vp = 0.0096 → Ec = 74.2 GPa = 1.030\*Eg  
 d = 1 μm → Vp = 0.032 → Ec = 79.4 GPa = 1.102\*Eg
 
-For the carbon dust particles of d = 20 μm (we don't use the approximation d << r), we find: VP = 0.74 ≥ Ec = 330.4 GPa = 4.6\*Eg. Note the increase by a factor ~5 in this simplified model!
+For the carbon dust particles of d = 20 μm (we don't use the approximation d \<\< r), we find: VP = 0.74 ≥ Ec = 330.4 GPa = 4.6\*Eg. Note the increase by a factor ~5 in this simplified model!
 
-We can elaborate on the validity of our assumption that the dust particles form a shell of thickness d around the fiber. In reality, the dust particles "surface density" may be not high enough to consider the dust particles as a dense shell around the fiber. A surface density factor in the expression for Vp can account for this. Also, we cannot use the equal strain expression (Kc = 1) anymore, but we have to work with a value for Kc < 1.
+We can elaborate on the validity of our assumption that the dust particles form a shell of thickness d around the fiber. In reality, the dust particles "surface density" may be not high enough to consider the dust particles as a dense shell around the fiber. A surface density factor in the expression for Vp can account for this. Also, we cannot use the equal strain expression (Kc = 1) anymore, but we have to work with a value for Kc \< 1.
 
 {{< anchor "ref" >}}{{< /anchor >}}References
 ---------------------------------------------

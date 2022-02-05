@@ -165,7 +165,7 @@ What is the atomistic origin of the asymmetry justifying the Bouvet yield criter
 
 Image removed due to copyright restrictions. Please see Fig. 1 in Sleight, Arthur. "Materials Science: Zero-expansion Plan." _Nature_ 425 (October 16, 2003): 676-676.
 
-Compression is the regime of r < r0 and tension is the regime of r > r0. They are obviously different by intuition.
+Compression is the regime of r \< r0 and tension is the regime of r > r0. They are obviously different by intuition.
 
 {{< anchor "ref" >}}{{< /anchor >}}References
 ---------------------------------------------

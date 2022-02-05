@@ -14,25 +14,319 @@ Some creep studies exist on the creep properties of NiTi, as reviewed and summar
 
 Table 1. Summary of prior and present studies. Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[6](#References)\]
 
-| INVESTIGATION | YEAR | SAMPLE DIAMETER (mm) | Ni (at.%) | PROCESSING |
-| --- | --- | --- | --- | --- |
-| Mukherjee \[[1](#References)\] | 1968 | 6.35 | 50.6 | Hot-swaged rod, annealed at 1000 °C |
-| Kato, et al. \[[2](#References)\] | 1999 | 0.9 | 49.5, 50, 50.5 | Drawn wires, annealed at 900 °C |
-| Eggeler, et al. \[[3](#References)\] | 2002 | 13 | 50.7 | Rods, solutionized at 850 °C, precipitation and coarsening during creep |
-| Kobus, et al. \[[4](#References)\] | 2002 | \- | 50.7 | Annealed at 500-560 °C |
-| Lexcellent, et al. \[[5](#References)\] | 2005 | 18.5 | 50.0 | Hot drawn bars |
-| Oppenheimer, et al. \[[6](#References)\] | 2007 | 12.7 | 50.8 | Bars, annealed at 950-1100 °C 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+INVESTIGATION
+{{< thclose >}}
+{{< thopen >}}
+YEAR
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE DIAMETER (mm)
+{{< thclose >}}
+{{< thopen >}}
+Ni (at.%)
+{{< thclose >}}
+{{< thopen >}}
+PROCESSING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mukherjee \[[1](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+1968
+{{< tdclose >}}
+{{< tdopen >}}
+6.35
+{{< tdclose >}}
+{{< tdopen >}}
+50.6
+{{< tdclose >}}
+{{< tdopen >}}
+Hot-swaged rod, annealed at 1000 °C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kato, et al. \[[2](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+1999
+{{< tdclose >}}
+{{< tdopen >}}
+0.9
+{{< tdclose >}}
+{{< tdopen >}}
+49.5, 50, 50.5
+{{< tdclose >}}
+{{< tdopen >}}
+Drawn wires, annealed at 900 °C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eggeler, et al. \[[3](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+2002
+{{< tdclose >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+50.7
+{{< tdclose >}}
+{{< tdopen >}}
+Rods, solutionized at 850 °C, precipitation and coarsening during creep
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kobus, et al. \[[4](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+2002
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+{{< tdopen >}}
+50.7
+{{< tdclose >}}
+{{< tdopen >}}
+Annealed at 500-560 °C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lexcellent, et al. \[[5](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+2005
+{{< tdclose >}}
+{{< tdopen >}}
+18.5
+{{< tdclose >}}
+{{< tdopen >}}
+50.0
+{{< tdclose >}}
+{{< tdopen >}}
+Hot drawn bars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oppenheimer, et al. \[[6](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+2007
+{{< tdclose >}}
+{{< tdopen >}}
+12.7
+{{< tdclose >}}
+{{< tdopen >}}
+50.8
+{{< tdclose >}}
+{{< tdopen >}}
+Bars, annealed at 950-1100 °C
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Table 2. Summary of creep conditions and creep parameters measured in prior and present studies. Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[6](#References)\]
 
-| MATERIAL | TEMPERATURE (°C) | STRAIN RATE (s\-1) | Stress (MPa) | _n_ | _Q_ (kJ mol\-1) | GRAIN SIZE (μm) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Mukherjee \[[1](#References)\] | 700-1000 | 6 X 10\-5—6 X 10\-3 | 6-178 | 3 ± 0.2 | 251 ± 13 | \- |
-| Kato, et al. \[[2](#References)\] | 628-888 | 1 X 10\-5—2 X 10\-2 | 11-81 |  {{< br >}}{{< br >}} 1 and 5.9 (2.5 ± 0.2a) {{< br >}}{{< br >}}  | 230-253 | 15 |
-| Eggeler, et al. \[[3](#References)\] | 470-530 | 2 X 10\-9—8 X 10\-6 | 90-150 | 2 | 334 | 35 |
-| Kobus, et al. \[[4](#References)\] | 500-560 | 2 X 10\-7—3 X 10\-5 | 120-180 | 5 | 421 | \- |
-| Lexcellent, et al. \[[5](#References)\] | 597-897 | 3 X 10\-3—4 X 10\-2 | 10-35 | 3 | 222 ± 30 | \- |
-| Oppenheimer, et al. \[[6](#References)\] | 950-1100 | 1 X 10\-6—1 X 10\-5 | 4.7-11 | 2.7 ± 0.2 | 155 ± 14 | 48-140 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MATERIAL
+{{< thclose >}}
+{{< thopen >}}
+TEMPERATURE (°C)
+{{< thclose >}}
+{{< thopen >}}
+STRAIN RATE (s\-1)
+{{< thclose >}}
+{{< thopen >}}
+Stress (MPa)
+{{< thclose >}}
+{{< thopen >}}
+_n_
+{{< thclose >}}
+{{< thopen >}}
+_Q_ (kJ mol\-1)
+{{< thclose >}}
+{{< thopen >}}
+GRAIN SIZE (μm)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mukherjee \[[1](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+700-1000
+{{< tdclose >}}
+{{< tdopen >}}
+6 X 10\-5—6 X 10\-3
+{{< tdclose >}}
+{{< tdopen >}}
+6-178
+{{< tdclose >}}
+{{< tdopen >}}
+3 ± 0.2
+{{< tdclose >}}
+{{< tdopen >}}
+251 ± 13
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kato, et al. \[[2](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+628-888
+{{< tdclose >}}
+{{< tdopen >}}
+1 X 10\-5—2 X 10\-2
+{{< tdclose >}}
+{{< tdopen >}}
+11-81
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1 and 5.9 (2.5 ± 0.2a)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+230-253
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eggeler, et al. \[[3](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+470-530
+{{< tdclose >}}
+{{< tdopen >}}
+2 X 10\-9—8 X 10\-6
+{{< tdclose >}}
+{{< tdopen >}}
+90-150
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+334
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kobus, et al. \[[4](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+500-560
+{{< tdclose >}}
+{{< tdopen >}}
+2 X 10\-7—3 X 10\-5
+{{< tdclose >}}
+{{< tdopen >}}
+120-180
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+421
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lexcellent, et al. \[[5](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+597-897
+{{< tdclose >}}
+{{< tdopen >}}
+3 X 10\-3—4 X 10\-2
+{{< tdclose >}}
+{{< tdopen >}}
+10-35
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+222 ± 30
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oppenheimer, et al. \[[6](#References)\]
+{{< tdclose >}}
+{{< tdopen >}}
+950-1100
+{{< tdclose >}}
+{{< tdopen >}}
+1 X 10\-6—1 X 10\-5
+{{< tdclose >}}
+{{< tdopen >}}
+4.7-11
+{{< tdclose >}}
+{{< tdopen >}}
+2.7 ± 0.2
+{{< tdclose >}}
+{{< tdopen >}}
+155 ± 14
+{{< tdclose >}}
+{{< tdopen >}}
+48-140
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 a Single sample method.
 
@@ -64,21 +358,157 @@ Fracture toughness is a quantitative way of expressing a material's resistance t
 
 Fracture mechanics, which leads to the concept of fracture toughness, was largely based on the work of A. A. Griffith who, among other things, studied the behavior of cracks in brittle materials. Below is a table of plane strain fracture toughnesses for several representative materials (adapted from \[[9](#References)\]).
 
-| MATERIAL | KIC(MPa√_m_) |
-| --- | --- |
-| {{< td-colspan 2 >}}**Metals**{{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} Aluminum alloy {{< br >}}{{< br >}}  | 36 |
-|  {{< br >}}{{< br >}} Steel alloy {{< br >}}{{< br >}}  | 50 |
-|  {{< br >}}{{< br >}} Titanium alloy {{< br >}}{{< br >}}  | 44-66 |
-| Aluminum | 14-28 |
-| {{< td-colspan 2 >}}**Ceramics**{{< /td-colspan >}} ||
-| Aluminum oxide | 3-5 |
-|  {{< br >}}{{< br >}} Silicon carbide {{< br >}}{{< br >}}  | 3-5 |
-| Soda-lime-glass | 0.7-0.8 |
-|  {{< br >}}{{< br >}} Concrete {{< br >}}{{< br >}}  | 0.2-1.4 |
-| {{< td-colspan 2 >}}**Polymers**{{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} Polymethyl methacrylate {{< br >}}{{< br >}}  | 1 |
-|  {{< br >}}{{< br >}} Polystyrene {{< br >}}{{< br >}}  | 0.8-1.1 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MATERIAL
+{{< thclose >}}
+{{< thopen >}}
+KIC(MPa√_m_)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Metals**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Aluminum alloy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Steel alloy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Titanium alloy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+44-66
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Aluminum
+{{< tdclose >}}
+{{< tdopen >}}
+14-28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Ceramics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Aluminum oxide
+{{< tdclose >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Silicon carbide
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Soda-lime-glass
+{{< tdclose >}}
+{{< tdopen >}}
+0.7-0.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Concrete
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+0.2-1.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Polymers**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Polymethyl methacrylate
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Polystyrene
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+0.8-1.1
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Very little data is reported for the fracture toughness of NiTi. He, et al., \[[10](#References)\] in a study on the hydrogen effects on NiTi, have recently reported the KIC values for austenitic NiTi (Ni/Ti ratio of 55/45 and an austenite start temperature of 80°C) at 20°C. They used tensile testing and x-ray diffraction to confirm the formation of stress-induced martensite. They report KIC = 39.2 MPa√_m_ for samples that were annealed at 150°C, and 53.1 MPa√_m_ for samples that were annealed at 700°C for half an hour.
 

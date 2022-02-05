@@ -24,7 +24,7 @@ Material around gas bubble can be modeled as a spherical pressure vessel. Outer 
 
 ![radiation_3_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_1.jpg)
 
-Since _r/t_ < 10, must use "thick wall pressure vessel theory
+Since _r/t_ \< 10, must use "thick wall pressure vessel theory
 
 ![radiation_3_2.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_2.jpg)
 

@@ -24,7 +24,7 @@ On the other hand, in the right-angle triangle l L δ
 
 l2 + δ2 = L2
 
-In the limitation that δ<<L, θ = δ/L
+In the limitation that δ\<\<L, θ = δ/L
 
 The length of the arch L corresponds to an center angle of α by
 
@@ -34,7 +34,7 @@ thus κ = 1/R = α/L = 2θ/L = 2δ/L2 = 2δ/(l2 + δ2)
 
 _(b) Graphically represent the structure of Si in SOI, at the unit cell and micrometer-scale level, and separately indicate the closest packed plane and direction in that plane for this structure._
 
-At the unit cell scale level, Si has diamond structure. The unit cell is FCC, with Si atoms filling half the tetrahedron interstitial sites. The closest packed plane is {111}, and the closest packed direction in this plane is plane is <110>.
+At the unit cell scale level, Si has diamond structure. The unit cell is FCC, with Si atoms filling half the tetrahedron interstitial sites. The closest packed plane is {111}, and the closest packed direction in this plane is plane is \<110>.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/silicon.jpg)
 

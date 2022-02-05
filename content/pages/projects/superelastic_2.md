@@ -10,7 +10,7 @@ _(a) Explain the physical basis of superelasticity_.
 
 Superelasticity is an elastic response to a relatively high stress induced by a phase transformation between the austenitic and martensitic phases of a crystal. This phenomenon results from the reversible motion of domain boundaries during the phase transformation, rather than just bond stretching or the introduction of defects in the crystal lattice. Even if the domain boundaries do become pinned, they may be reversed through heating. Thus, a superelastic material may return to its previous shape (hence, shape memory) after the removal of even relatively high applied strains.
 
-The Bain Correspondence involves the austenite/martensite phase transformation between a face centered crystal lattice and a body centered tetragonal crystal structure. The temperature-induced transformation is characterized by four temperatures: _Ms_ and _Mf_ during cooling and _As_ and _Af_ during heating. _Ms_ and _Mf_ refer to the temperatures at which transformation from the parent beta-phase into martensite starts and finishes, respectively. _As_and _Af_ indicate the temperatures whereby the reverse transformation starts and finishes, respectively. The overall transformation describes a hysteresis on the order of 10°C to 50°C in temperature. For T >_Af_, the martensitic phase can also be caused by straining the sample. When deformed above _Af_, the deformation is fully reversible; for _Ms_ < T < _Af_, some strain-induced martensite will remain stable and lead to an incomplete shape restoration. The sample starts transforming into martensite upon reaching a critical stress, σ, whose value increases linearly with temperature starting from zero at the _Ms_ temperature. During straining, the stress at which transformation occurs is almost constant until the material is fully transformed. Further straining leads to elastic loading of the martensite, followed by plastic deformation. Reversible strains up to 8% are obtainable, versus the 0.2% of normal metals.
+The Bain Correspondence involves the austenite/martensite phase transformation between a face centered crystal lattice and a body centered tetragonal crystal structure. The temperature-induced transformation is characterized by four temperatures: _Ms_ and _Mf_ during cooling and _As_ and _Af_ during heating. _Ms_ and _Mf_ refer to the temperatures at which transformation from the parent beta-phase into martensite starts and finishes, respectively. _As_and _Af_ indicate the temperatures whereby the reverse transformation starts and finishes, respectively. The overall transformation describes a hysteresis on the order of 10°C to 50°C in temperature. For T >_Af_, the martensitic phase can also be caused by straining the sample. When deformed above _Af_, the deformation is fully reversible; for _Ms_ \< T \< _Af_, some strain-induced martensite will remain stable and lead to an incomplete shape restoration. The sample starts transforming into martensite upon reaching a critical stress, σ, whose value increases linearly with temperature starting from zero at the _Ms_ temperature. During straining, the stress at which transformation occurs is almost constant until the material is fully transformed. Further straining leads to elastic loading of the martensite, followed by plastic deformation. Reversible strains up to 8% are obtainable, versus the 0.2% of normal metals.
 
   
  
@@ -114,12 +114,72 @@ Similar experiments have been done for a wire in tension, torsion, and bending, 
   
  
 
-| LOAD CASE | ENERGETIC EFFICIENCY (1%) | ENERGY DENSITY (J/kg) |
-| --- | --- | --- |
-| (Carnot) | 9.9 | – |
-| Tension | 1.3 | 466 |
-| Torsion | 0.23 | 82 |
-| Bending | 0.013 | 4.6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LOAD CASE
+{{< thclose >}}
+{{< thopen >}}
+ENERGETIC EFFICIENCY (1%)
+{{< thclose >}}
+{{< thopen >}}
+ENERGY DENSITY (J/kg)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+(Carnot)
+{{< tdclose >}}
+{{< tdopen >}}
+9.9
+{{< tdclose >}}
+{{< tdopen >}}
+–
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tension
+{{< tdclose >}}
+{{< tdopen >}}
+1.3
+{{< tdclose >}}
+{{< tdopen >}}
+466
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Torsion
+{{< tdclose >}}
+{{< tdopen >}}
+0.23
+{{< tdclose >}}
+{{< tdopen >}}
+82
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bending
+{{< tdclose >}}
+{{< tdopen >}}
+0.013
+{{< tdclose >}}
+{{< tdopen >}}
+4.6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

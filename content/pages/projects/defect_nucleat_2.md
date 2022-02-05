@@ -27,8 +27,41 @@ Consider 2 surfaces in contact described by Eq. 1 and Eq. 2 below. Here, we assu
   
  
 
-| Surface 1: |  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_1.jpg) {{< br >}}{{< br >}}  | Eq. 1 |
-| Surface 2: |  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_2.jpg) {{< br >}}{{< br >}}  | Eq. 2 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Surface 1:
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_1.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Surface 2:
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_2.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -40,7 +73,22 @@ Switching to common set of axes: _x and y_
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_3.jpg) {{< br >}}{{< br >}}  | Eq. 3 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_3.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -50,7 +98,22 @@ Since these axes are arbitrary, we can pick them intelligently to make our descr
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_4.jpg) {{< br >}}{{< br >}}  | Eq. 4 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_4.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 4
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -62,8 +125,35 @@ We can get relations for A and B using geometrical considerations. This is done 
   
  
 
-|  {{< br >}}{{< br >}} ![defec_nuclea_2_5.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_5.jpg) {{< br >}}{{< br >}}  | Eq. 5 |
-|  {{< br >}}{{< br >}} ![defec_nuclea_2_6.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_6.jpg) {{< br >}}{{< br >}}  | Eq. 6 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![defec_nuclea_2_5.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_5.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![defec_nuclea_2_6.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_6.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -93,7 +183,22 @@ Looking at points S1 and S2, which are coincident within the elastic surface:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_7.jpg) {{< br >}}{{< br >}}  | Eq. 7 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_7.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -103,7 +208,22 @@ If we write _δ = δ1 + δ2_ and use Eq. 6, we get elastic displacements:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_8.jpg) {{< br >}}{{< br >}}  | Eq. 8 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_8.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -121,7 +241,22 @@ The circular symmetry of the problem means that the contact area will be circula
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_9.jpg) {{< br >}}{{< br >}}  | Eq. 9 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_9.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 9
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -133,7 +268,22 @@ A pressure distribution which gives displacements satisfying Eq. 9 is given in J
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_10.jpg) {{< br >}}{{< br >}}  | Eq. 10 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_10.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -143,7 +293,22 @@ This pressure distribution gives the displacement:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_11.jpg) {{< br >}}{{< br >}}  | Eq. 11 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_11.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -153,7 +318,22 @@ Since the pressure acting on the second body is equal to the first, we can write
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_12.jpg) {{< br >}}{{< br >}}  | Eq. 12 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_12.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -163,7 +343,22 @@ Substituting Eq. 11 into Eq. 9 for _uz1_ and _uz2_, we are left with:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_13.jpg) {{< br >}}{{< br >}}  | Eq. 13 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_13.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -173,8 +368,35 @@ Which give us the radius of circle contact, _a_, and the mutual approach of dist
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_14.jpg) {{< br >}}{{< br >}}  | Eq. 14 |
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_15.jpg) {{< br >}}{{< br >}}  | Eq. 15 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_14.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_15.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -184,7 +406,22 @@ The total load compressing the solids is:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_16.jpg) {{< br >}}{{< br >}}  | Eq. 16 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_16.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 16
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -194,8 +431,35 @@ Substituting this into Eq. 14 and Eq. 15, we get:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_17.jpg) {{< br >}}{{< br >}}  | Eq. 17 |
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_18.jpg) {{< br >}}{{< br >}}  | Eq. 18 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_17.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_18.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 18
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -205,7 +469,22 @@ We also get an equation for the maximum pressure, _po_, if we compare our new ex
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_19.jpg) {{< br >}}{{< br >}}  | Eq. 19 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_19.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 19
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -217,8 +496,35 @@ For this pressure distribution, the stresses beneath the surface along the z-axi
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_20.jpg) {{< br >}}{{< br >}}  | Eq. 20 |
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_21.jpg) {{< br >}}{{< br >}}  | Eq. 21 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_20.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_21.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 21
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -228,7 +534,22 @@ These are the principal stresses. Therefore, our principal shear stress is:
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_22.jpg) {{< br >}}{{< br >}}  | Eq. 22 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_22.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 22
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -238,7 +559,22 @@ We now plug in the values for our principal stresses to get an expression for th
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_23.jpg) {{< br >}}{{< br >}}  | Eq. 23 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_23.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 23
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -248,7 +584,22 @@ This principal shear stress is maximized at a depth of _z_ _\= 0.48 a (for ν = 
   
  
 
-|  {{< br >}}{{< br >}} ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_24.jpg) {{< br >}}{{< br >}}  | Eq. 24 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_24.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Eq. 24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
