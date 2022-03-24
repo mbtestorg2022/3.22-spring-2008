@@ -92,7 +92,7 @@ Image removed due to copyright restrictions. Please see Fig. 1 in \[[2](#ref)\].
 
 _(c) Derive the location of maximum shear stress (i.e., depth) for indentation with a Hertzian elastic sphere for the case of 2-D indentation (i.e., the sphere is really a cylinder). Johnson's Contact Mechanics \[[3](#ref)\] and the PRB (2003) \[[4](#ref)\] and its cited papers are good references_.
 
-Handwritten Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3_wiki_prob_c))
+Handwritten Solutions ([PDF]({{< baseurl >}}/resources/hw3_wiki_prob_c))
 
 Supplemental Calculations
 -------------------------
@@ -163,7 +163,7 @@ The TEM images and a calculation of stress under the indenter points to the fact
   
  
 
-Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nmat/journal/v5/n9/extref/nmat1714-s2.pdf))
+Image removed due to copyright restrictions. Please see Supplementary Fig. 2 in \[[5](#ref)\]. ([PDF](http://www.nature.com/nmat/journal/v5/n9/extref/nmat1714-s2.pdf))
 
   
  
