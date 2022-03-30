@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: thinfilms_2_10
 uid: 367ecb3a-ab46-c015-c85e-df36acafc6f5

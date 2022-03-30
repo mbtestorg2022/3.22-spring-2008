@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: fiber_optics_2_1
 uid: 1230b2dc-8d18-f801-6c7b-27fccf3e639d

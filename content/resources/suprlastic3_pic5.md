@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: suprlastic3_pic5
 uid: e081dca2-a8de-5b75-2c1c-4f7943db15b8

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: supreastc_5_pic1
 uid: 356bb2b0-5f68-b8b4-9fc2-c90321f801fb
