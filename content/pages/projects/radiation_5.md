@@ -12,7 +12,7 @@ _(b) Aldo's Fig. 3 \[[1](#Reference)\] shows relation between effective creep st
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_5_1.jpg)
+{{< resource "101ab719-f4ed-fe49-e7ff-dd8da057cf89" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 

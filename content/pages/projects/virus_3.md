@@ -12,7 +12,7 @@ Ivanovska, et al. \[[1](#References)\] states on p. 7604 of the manuscript that 
 
 **Finding cross-sectional area A:** The manuscript states that the cantilever used was OMCL-RC800PSA from Olympus. Based on the manufacturer specifications \[[2](#References)\], the probe is a sharpened pyramidal tip, but we'll approximate it as a cone here with a tip radius **r = 15 nm, tip angle θ = 45°, tip height h = 2.9 μm** (Fig. 1). Because the prohead and cantilever are of comparable sizes, we cannot model the prohead surface area being acted upon as a flat plane. Thus we cannot simply take the tip area to be our cross sectional area. Our actual cross-sectional area is the projected contact area (shaded region in Fig. 1). Therefore, using cone geometry, we can find A via **A = π**(r1)2, where r1 is as indicated in Fig. 3. To calculate this, we need to know the strain at yield point, which is provided by the manuscript (pg. 7604): **strainyield = maximum linear displacement = 12 nm**. Using trigonometry, we're able to find the following value: **r1 = 19.97 nm**. Therefore, **A** = **1252.2 nm2**.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_3_1.jpg)
+{{< resource "9a4e9fcc-2fef-81c2-3314-e25592f1c30d" >}}
 
 Fig. 1. Cantilever Probe Tip. Dimensions based on manufacturer specifications of OMCL-RC800PSA from Olympus. Tip is approximated as a cone with tip radius r, tip height h and tip angle theta. Shaded region indicates cross sectional area used for yield stress calculation.
 
@@ -22,7 +22,7 @@ _(c) These authors \[[1](#References)\] state that imaging of the proheads in co
 
 The authors used scanning force microscopy (SFM) to image the proheads under different maximal loading forces and **assumed** this to be "**uniaxial pressure**". However, given the imaging modality rasters an AFM tip, with a contact region of approximately 5 nm, across the virus prohead, which itself has an inherent curvature, the applied force is clearly not uniaxial, see figure below. Along the curvature of the virus prohead the applied force is resolved into various components. Also, the size of AFM tips (\< 20 nm) are on the order of the size of a prohead and thus cannot be considered as a point load when forces are applied to the prohead.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_3_2.jpg)
+{{< resource "63a7fbfe-5663-cd17-bffe-4867dbbe45e5" >}}
 
 _(d) These authors also claim that the mechanical testing of such proheads enables prediction of the elastic properties of the bacteriophage, by recourse to nonlinear elastic bucking of shells. Based on the data they present in this paper and known continuum mechanical analysis of shell elasticity, is this claim justified? Timoshenko \[[5](#References)\] is an excellent resource on mechanical analysis of shells._
 

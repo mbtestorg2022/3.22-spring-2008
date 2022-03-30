@@ -13,7 +13,7 @@ Image removed due to copyright restrictions. Please see Fig. 9 in \[[5](#ref)\],
   
  
 
-![thinfilms_5_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_5_1.jpg)
+{{< resource "6d9d876c-3745-8f91-1a50-9abdaceae269" >}}
 
 _(c) In section 4 of the Frontiers paper \[[5](#ref)\], the authors discuss Bruel's innovation as leading to the realization that fracture could be induced by shearing. What kind of mode of loading is this, and will the stress required to initiate fracture for a given material be lower in this mode than in Mode I?_
 

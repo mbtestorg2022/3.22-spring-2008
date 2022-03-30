@@ -334,7 +334,7 @@ In 1968, Mukherjee \[[1](#References)\] was the first to study the creep propert
 
 Nasser and Choi constructed a schematic deformation mechanism map of Ni-Ti-Cr alloy based on an experimental analysis of its creep behavior \[[7](#References)\]. This empirical construct, which plots true stress as a function of strain rate, rather than normalized stress and normalized temperature, is reproduced below.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/supreastc_5_pic1.jpg)
+{{< resource "356bb2b0-5f68-b8b4-9fc2-c90321f801fb" >}}
 
 Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[7](#References)\]
 
@@ -342,11 +342,11 @@ _(c) Compare the fracture strengths of superelastic alloys of your choice to tho
 
 **Fracture strength** is the true normal stress on the minimum cross-sectional area at the beginning of fracture. In a tensile test, it is the load at fracture divided by the cross-sectional area of the specimen. This can be treated as an ultimate tensile strength. We can compare the fracture strength of the superelastic alloy NiTi to that of its components, Ni and Ti:
 
-Ti: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_1.jpg)
+Ti: {{< resource "f1fe7d7a-d3e1-ed3f-a924-cf504a6ff3d4" >}}
 
-Ni: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_2.jpg)
+Ni: {{< resource "ea5a555e-100b-2686-88d5-21a5d3d4eed0" >}}
 
-NiTi: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_3.jpg)
+NiTi: {{< resource "133869a3-02c5-367b-13e3-74fdb13a6013" >}}
 
 (Source: \[[8](#References)\])
 
@@ -514,7 +514,7 @@ Very little data is reported for the fracture toughness of NiTi. He, et al., \[[
 
 The fracture toughness of NiTi is not exceptionally high, particularly when compared to other commonly used biomedical materials such as 316SS. Furthermore, what's interesting is that Ni alloys and Ti alloys, exclusive of the shape memory alloys, have fracture toughnesses ranging from 50-150 MPa√m (Ashby Chart of Fracture Toughness versus Fracture Strength). Nitinol is at the lower end of this range. Pure Ni and Ti have plane strain fracture toughnesses of 100-150 MPa√m and 50-70 MPa√m, respectively \[[8](#References)\].
 
-Therefore, we can conclude that a superelastic alloy's fracture toughness is much higher than that of its alloy components. Fracture toughness KC is related to the material toughness GC via ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_11.jpg) in plane strain conditions; GC is the energy density beneath the entire stress-strain curve. Thus, a material that is ductile and has a high ultimate strength generally also has high material toughness, and subsequently high fracture toughness.
+Therefore, we can conclude that a superelastic alloy's fracture toughness is much higher than that of its alloy components. Fracture toughness KC is related to the material toughness GC via {{< resource "02e7131b-edee-1bb6-3e72-cc2548b817bf" >}} in plane strain conditions; GC is the energy density beneath the entire stress-strain curve. Thus, a material that is ductile and has a high ultimate strength generally also has high material toughness, and subsequently high fracture toughness.
 
 However, the fracture mechanism of a superelastic alloy is not as simple to intuit. Articles which present studies of fatigue-crack propagation behavior in Nitinol, a 50Ni-50Ti (atomic percent) superelastic/shape-memory alloy, with particular emphasis on the effect of the stress-induced martensitic transformation on crack-growth resistance, present that in general, fatigue-crack growth resistance was found to increase with decreasing temperature, such that fatigue thresholds were higher and crack-growth rates slower in martensite compared to stable austenite and superelastic austenite. Of note was the observation that the stress-induced transformation of the superelastic austenite structure, which occurs readily at 37 °C during uniaxial tensile testing, could be suppressed during fatigue-crack propagation by the tensile hydrostatic stress state ahead of a crack tip in plane strain; this effect, however, was not seen in thinner specimens, where the constraint was relaxed due to prevailing plane-stress conditions. \[[12](#References)\]
 

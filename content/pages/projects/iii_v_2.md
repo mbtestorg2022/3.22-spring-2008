@@ -9,7 +9,7 @@ uid: 4004d0a3-e09b-c1eb-db08-0be15d73640b
 
 _(a) Draw the crystal structure of GaAs, and a separate graphic which is the closest-packed plane and direction on that plane. Discuss the major differences in this structure, as compared to Si._
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/iii_v_2_1.jpg)
+{{< resource "1e4cdc8e-2c64-516a-a872-8d3b7baaba13" >}}
 
 GaAs Zinc-Blende Structure \[[1](#ref)\]
 
@@ -19,7 +19,7 @@ Please see: [http://www-vrl.umich.edu/project2/miller/111plane.JPG](http://www-v
 
 GaAs closest packed direction and plane \[[2](#ref)\]
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/iii_v_2_2.jpg)
+{{< resource "512d991d-2d77-2179-3978-898a4009c723" >}}
 
 Silicon Diamond Structure \[[1](#ref)\]
 
@@ -63,7 +63,7 @@ To resist bending, we want to choose the orientation with the highest Young's el
 
 However, it is important to understand the exact orientation of this the (111) planes with respect to film-substrate interface, which would minimize bending. To do so let us first look at a bi-material strip as shown in the figure below. The two materials can be characterized by different elastic moduli, and thus will exhibit different strains under the same state of stress. This leads to the bending of the strip to incorporate this difference, as understood more clearly by the figure.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/iii_v_2_3.jpg)
+{{< resource "2b4698e5-0216-9141-54d7-d242d31df172" >}}
 
 Effect of the introduction of stresses on a bi-material strip.
 

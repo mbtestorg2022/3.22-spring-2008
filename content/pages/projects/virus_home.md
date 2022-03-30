@@ -13,7 +13,7 @@ Group Members
 *   Heechul Park
 *   Jing Shan
 
-![virus_home_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_home_1.jpg)
+{{< resource "52af0d71-c83d-e26a-b788-51956735c49a" >}}
 
 References
 ----------

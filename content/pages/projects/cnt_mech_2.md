@@ -14,15 +14,15 @@ Treacy, et al. (1996) \[[2](#References)\] used thermally induced vibration of c
 
 The vibration energy, Wn, is the thermal energy in the system equal to **kT**, which obeys the Boltzmann distribution, and un is the horizontal vibration amplitude of the tip.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_2_1.jpg)
+{{< resource "d977fe17-4ce2-5bfa-ef1c-b63846b04446" >}}
 
 The effective spring constant is given by
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_2_2.jpg)
+{{< resource "de125dc0-009a-8285-c4bc-e5ff7c98b023" >}}
 
 where Y is the Young's Modulus, L is the tube length, a and b are the outer and inner diameters of the tube respectively, and the β term is related to the vibration mode of the MWNT, which is assumed to be analogous to that of a clamped cantilever. It is given by
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_2_3.jpg)
+{{< resource "6a203ee0-161a-7361-626f-e549b0a1345f" >}}
 
 where ρ is the density of the CNT wall material. For CNTs at room temperature a frequency of 100 MHz can be expected. Using the above relations the Young's Modulus was inferred to be roughly 1.8 TPa on average.
 
@@ -30,7 +30,7 @@ Using the same technique as Treacy, Krishnan, et al. (1998) \[[3](#References)\]
 
 Poncharal, et al. (1999) \[[4](#References)\] used a slightly different technique to infer the Young's modulus. This group mounted MWNTs on a specially designed TEM grid such that they could be biased. A grounded counter electrode was mounted within 20 um of the ends of the MWNTs. The application of a bias to the nanotubes caused a deflection towards to the grounded counterelectrode. By applying a time dependent oscillating voltage to the nanotubes, the resonance frequency could be found. The frequency was evident when large deflections were observed for relatively small voltages. Using essentially the same method and governing equation as in the previous two papers,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_2_4.jpg)
+{{< resource "2e474c99-aab7-fc10-706f-0a736360f0d7" >}}
 
 based on the assumption that nanotubes can be modeled as resonantly excited cantilever beams, allowed the calculation of Young's modulus. Poncharal, et al. confirmed previous measurements of modulus to be roughly 1 TPa.
 

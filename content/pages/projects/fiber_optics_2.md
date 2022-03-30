@@ -10,7 +10,7 @@ _a) What are the (short-range ordered) structures and elastic moduli of E-glass 
 
 Silica (SiO2) glass is amorphous. This means that there is no long-range order, but there is a short-range order. This local ordering consists of a tetrahedral arrangement of O and Si atoms (see Fig. \[[1](#ref)\]).
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_1.jpg)
+{{< resource "1230b2dc-8d18-f801-6c7b-27fccf3e639d" >}}
 
 E glass still consists for >50% of SiO2. SiO2 and B2O3 are the predominant network formers. BaO acts as a network modifier and Al2O3 is a glass network intermediate, which together with BaO has the capacity to form a network \[[2](#ref)\]. Just as for silica, there is no long-range order in E glass, which makes it an amorphous material. The specific short-range order in E glass will depend on its constituent atoms.
 
@@ -32,23 +32,23 @@ According to Chapter 6 in Courtney \[[9](#ref)\], the elastic modulus Ec of a tw
 
 In the first case, each layer in the stack experiences an equal stress, and the elastic modulus Ec is calculated to be (Courtney 6.8):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_2.jpg)
+{{< resource "a18a84ea-1a95-eadc-19e7-19a0d1362dcc" >}}
 
 with index g for the glass matrix and p for the dust particles. The last step is a Taylor expansion for the case that Vp \<\< 1.
 
 In the second case, each layer in the stack experiences an equal strain, and the elastic modulus is found to be (Courtney 6.12):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_3.jpg)
+{{< resource "d035dfd9-87fc-5c7b-3db1-9c760ef8715c" >}}
 
 When Sakaguchi introduces dust particles with Ep > Eg, such as alumina (E\[Al2O3\]= 300 Gpa) or carbon (E\[SiC\]= 420 GPa), both of the cases predict an increase of the Young's modulus of the glass fibers. The real value of Ec, which lies in between the two extrema, will thus also increase upon introduction of dust particles. This real value is sometimes described by an empirical relationship (Courtney 6.13):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_4.jpg)
+{{< resource "ce4407d0-c3e1-47fa-de4b-d2b57ea09c8e" >}}
 
 where Kc \< 1 is empirically determined.
 
 To find a numerical value for the elastic modulus Ec, we first need to estimate the volume fraction Vp. In the most simple approximation, we can imagine the dust particles of diameter d to make up a mono-atomic shell of thickness d around the fiber of radius r. This corresponds in fact to the equal strain case described above. The volume fraction Vp is then given by the ratio of the cross-sectional area of the shell to the area of the fiber:
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_5.jpg)
+{{< resource "98fdf7f1-8cfe-e689-79dc-08f872238a3d" >}}
 
 where the last approximation is valid for d \<\< r. For the diameter of the silica fiber, we can use the value of 2\*r = 125 μm mentioned in the article by do Nascimento \[[10](#ref)\].
 

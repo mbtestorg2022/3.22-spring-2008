@@ -18,7 +18,7 @@ Image removed due to copyright restrictions. Please see Fig. 7 in \[[1](#ref)\].
 
 Let us consider the two-film structure model above; we can refer to ZnO as material 1, and Si3N4 as material 2.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_1.jpg)
+{{< resource "f051e263-505f-6f39-b4a6-a95f9fe47aba" >}}
 
 And as shown by the paper, we have the table below:
 
@@ -34,27 +34,27 @@ We can separate the compliance matrix to two parts: the first one is related to 
 
 For Si3N4 as material 2,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_2.jpg)
+{{< resource "00c9bebd-ea05-83de-e399-995fcaa36daf" >}}
 
 For ZnO as material 1,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_3.jpg)
+{{< resource "0495a885-d567-67fc-7abc-75ea973e6dc6" >}}
 
 For the two-layer composite, we can predict that the matrix has the below form,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_4.jpg)
+{{< resource "62838669-396d-3303-4cff-512241b150f3" >}}
 
 Now we need to determine P, Q, J, L, K and M from the matrices of materials 1 and 2. Let us determine them one by one.
 
 We set the volume fraction of material 1 as a and the volume fraction of material 2 as b.The equation is shown below,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_5.jpg)
+{{< resource "245c5144-c056-27d4-999b-66996de075de" >}}
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_6.jpg)
+{{< resource "4896e52d-3672-be4d-bc93-5301aaa5d9fc" >}}
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_7.jpg) = extrinsic strain = thermal strain in this work
+{{< resource "7629f159-7964-c8f4-5d1d-db0ec5042f8c" >}} = extrinsic strain = thermal strain in this work
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_8.jpg) = intrinsic strain =
+{{< resource "8f9bd21e-be77-d557-fdb9-8b2f7ebd307e" >}} = intrinsic strain =
 
 1.  dopants
 2.  "atomic peening" which causes compressive stress
@@ -93,13 +93,13 @@ _(d) Determine the % of residual stress in terms of the tensile and compressive 
 
 Use the material properties give in Table I,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_9.jpg)
+{{< resource "b59e55af-6bb0-984c-abf5-49aeaa53b667" >}}
 
 Given that residual strain is 10\-12
 
 Substituting S matrix and residual strain into the residual stress tensor equation given above, we have residual stress,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_10.jpg)
+{{< resource "f9eed9e7-63c4-a27a-38f1-a0c928d823d8" >}}
 
 Provided yield stress of silicon nitride and zinc oxide is 900 and 412 MPa respectively.
 

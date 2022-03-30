@@ -15,7 +15,7 @@ Group Members
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_home_1.jpg)
+{{< resource "16c69936-28fb-5917-2e09-ad7c639017b3" >}}
 
   
  

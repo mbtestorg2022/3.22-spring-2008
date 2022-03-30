@@ -23,7 +23,7 @@ This is considered a type of zero-load aging (do Nascimento, et al. \[[2](#ref)\
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_1.jpg)
+{{< resource "fdf7ff8b-c96b-d473-700e-47065cae7ee6" >}}
 
   
  
@@ -37,7 +37,7 @@ The fracture stresses in Table 1 \[[2](#ref)\] were obtained using a tensile tes
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_2.jpg)
+{{< resource "c78f9ebd-3c58-13f5-3d79-5d0f20b40628" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
@@ -49,7 +49,7 @@ The point of using an indenter in this experiment is to be able to make cracks o
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_3.jpg)
+{{< resource "746c50b2-e9cd-6ccd-3392-4703c0168793" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
@@ -70,7 +70,7 @@ Image removed due to copyright restrictions. Please see slide 28 in Kim, Do Kyun
 
 From the relation σ = F/A and the above expression of A as a function of h, we can deduce the following equation for the indentation depth as a function of the fracture stress and the indentation load:
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_4.jpg)
+{{< resource "29cc4e8c-e86f-4e37-c78d-91778c075ce4" >}}
 
 Assuming an indentation load of 10 mN, we can estimate that the indentation depth for pristine fibers is 315 nm (with σ = 4.1 GPa) and that for 4 weeks aged fibers it is 381 nm (with σ = 2.8 GPa).
 
@@ -79,7 +79,7 @@ _(d) Graphically represent a cross-sectional view of this proposed fracture stre
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_5.jpg)
+{{< resource "8023956c-380d-dba2-d016-715d434b63fb" >}}
 
 Image made using Photoshop. Finite tip radius as calculated by \[[3](#ref)\].
 

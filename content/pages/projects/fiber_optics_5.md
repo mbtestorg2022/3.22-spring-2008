@@ -15,7 +15,7 @@ The direction of loading during mode 1 is normal to the crack faces.
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_5_1.jpg)
+{{< resource "afbfcf98-df35-621c-80f5-a8114b5a475e" >}}
 
 Portion of image removed due to copyright restrictions. Please see Fig. 6 in \[[1](#ref)\].
 
@@ -52,7 +52,7 @@ Image removed due to copyright restrictions. Please see Fig. 2 in \[[1](#ref)\].
 
 In class we saw that the stress intensity KI in Mode I loading is calculated by
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_5_2.jpg)
+{{< resource "9f75aa2c-0329-7f0f-548b-f7419c9224c3" >}}
 
 where c is the crack size and f is a factor close to unity. Using the crack size and stress values given, we get a value KI = 0.069 MPa m1/2. This value is out of the range of the data plots on the figure above, but by extrapolation we can estimate the crack propagation velocity to be 5 nm/s. It would thus take 30 s for the crack to grow another 150 nm.
 
